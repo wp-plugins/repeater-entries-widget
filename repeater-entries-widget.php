@@ -3,7 +3,7 @@
  * Plugin Name: Repeater Entries Widget
  * Plugin URL: https://wordpress.org/plugins/repeater-entries-widget/
  * Description:  Let users to enter as many entries as they want in widget with repeater fields like title, description, image, etc.
- * Version: 1
+ * Version: 1.0
  * Author: ZealousWeb Technologies
  * Author URI: http://zealousweb.com
  * Developer: The Zealousweb Team

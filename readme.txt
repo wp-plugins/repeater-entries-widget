@@ -5,9 +5,9 @@ Tags: widget, widgets, multiple, multiple rows, multiple entries, images, descri
 Donate link: http://www.zealousweb.net/payment/
 Requires at least: 3.0.1
 Tested up to: 4.2.x
-Stable tag: 1
+Stable tag: 1.0
 License: GPLv3 or later License
-Version: 1
+Version: 1.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Repeater Entries Widget - Let users enter as many entries in widget as they wish with repeater fields like caption, description, image, etc.
